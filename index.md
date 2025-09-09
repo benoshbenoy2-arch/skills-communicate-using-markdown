@@ -1,2 +1,3 @@
 # My First Markdown Header
-![alt text](image-url)
+!(https://octodex.github.com/images/yaktocat.png)
+
